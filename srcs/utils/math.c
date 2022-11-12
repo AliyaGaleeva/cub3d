@@ -6,12 +6,11 @@
 /*   By: wdanyel <wdanyel@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/05 19:37:01 by wdanyel           #+#    #+#             */
-/*   Updated: 2022/11/12 16:50:28 by wdanyel          ###   ########.fr       */
+/*   Updated: 2022/11/12 19:57:46 by wdanyel          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../../includes/cub3d.h"
-
 
 double	ceil_double(double nb)
 {

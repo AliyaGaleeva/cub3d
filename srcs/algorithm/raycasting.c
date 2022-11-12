@@ -6,7 +6,7 @@
 /*   By: wdanyel <wdanyel@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/05 19:39:38 by wdanyel           #+#    #+#             */
-/*   Updated: 2022/11/12 17:32:09 by wdanyel          ###   ########.fr       */
+/*   Updated: 2022/11/12 19:57:14 by wdanyel          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -62,7 +62,6 @@ static int	is_invalid_ray(t_game *game, t_ray *ray, t_raysult *res)
 	}
 	return (0);
 }
-
 
 static void	start_ray(t_ray *ray)
 {
